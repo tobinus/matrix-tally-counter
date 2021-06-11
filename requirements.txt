@@ -1,6 +1,6 @@
 Flask==1.1.2
 simplejson==3.17.0
-websockets==8.1
+websockets==9.1
 ## The following requirements were added by pip freeze:
 click==7.1.2
 itsdangerous==1.1.0
